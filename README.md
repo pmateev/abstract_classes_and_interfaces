@@ -1,1 +1,2 @@
-# abstract_classes_and_interfaces
+# Abstract classes and interfaces
+Homework for exercising abstract classes and interfaces in C#.
